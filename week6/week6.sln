@@ -5,7 +5,15 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1108.OOP", "Day1108.OOP\Day1108.OOP.csproj", "{0BE78D76-9677-4724-99E3-C549589E4EF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1109.EsAzienda", "Day1109.EsAzienda\Day1109.EsAzienda.csproj", "{A27857D4-AF7C-48A5-9C43-A50D5596DAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1109.EsAzienda", "Day1109.EsAzienda\Day1109.EsAzienda.csproj", "{A27857D4-AF7C-48A5-9C43-A50D5596DAC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1109.EsCalcio", "Day1109.EsCalcio\Day1109.EsCalcio.csproj", "{BA2605BD-E4BC-4DD7-AE62-C6A524660BC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1109.EsFigureGeometriche", "Day1109.EsFigureGeometriche\Day1109.EsFigureGeometriche.csproj", "{4AB83511-263B-485B-8902-3E587D513462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1110.Object.Equals()", "Day1110.Object.Equals()\Day1110.Object.Equals().csproj", "{4A24D49A-8988-47A4-9429-2423A38C773F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1110.ADO", "Day1110.ADO\Day1110.ADO.csproj", "{16C91585-3565-41DE-80FD-46B7ACC158C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{A27857D4-AF7C-48A5-9C43-A50D5596DAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27857D4-AF7C-48A5-9C43-A50D5596DAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27857D4-AF7C-48A5-9C43-A50D5596DAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2605BD-E4BC-4DD7-AE62-C6A524660BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2605BD-E4BC-4DD7-AE62-C6A524660BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2605BD-E4BC-4DD7-AE62-C6A524660BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2605BD-E4BC-4DD7-AE62-C6A524660BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB83511-263B-485B-8902-3E587D513462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB83511-263B-485B-8902-3E587D513462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB83511-263B-485B-8902-3E587D513462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB83511-263B-485B-8902-3E587D513462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A24D49A-8988-47A4-9429-2423A38C773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A24D49A-8988-47A4-9429-2423A38C773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A24D49A-8988-47A4-9429-2423A38C773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A24D49A-8988-47A4-9429-2423A38C773F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C91585-3565-41DE-80FD-46B7ACC158C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C91585-3565-41DE-80FD-46B7ACC158C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C91585-3565-41DE-80FD-46B7ACC158C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C91585-3565-41DE-80FD-46B7ACC158C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
